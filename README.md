@@ -4,7 +4,7 @@ Create new repository, push this file with answers and send me a like;
 
 ### 1. How to init NPM to new project?
 ### 2. How to install and save npm packages?
-### 3. How to install webpack to your project and where to wright configurations?
+### 3. How to install webpack to your project and where to write configurations?
 ### 4. How and where need to add webpack build and watch command?
 ### 5. How to specify entry point in webpack configuration?
 ### 6. How to specify entry file output in webpack configuration?
