@@ -1,3 +1,7 @@
+Download this file;
+Answer all questions;
+Create new repository, push this file with answers and send me a like;
+
 ### 1. How to init NPM to new project?
 ### 2. How to install and save npm packages?
 ### 3. How to install webpack to your project and where to wright configurations?
