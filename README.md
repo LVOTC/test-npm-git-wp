@@ -1,13 +1,13 @@
-### How to init NPM to new project?
-### How to install and save npm packages?
-### How to install webpack to your project and where to wright configurations?
-### How and where need to add webpack build and watch command?
-### How to specify entry point in webpack configuration?
-### How to specify entry file output in webpack configuration?
-### How to specify entry file output path in webpack configuration?
-### How to create new repository in Github?
-### How to init GIT in project?
-### How to add all changes/files to git index?
-### How to commit message for new changes?
-### How to add remote URL to GIT project?
-### How to push changes to master?
+### 1. How to init NPM to new project?
+### 2. How to install and save npm packages?
+### 3. How to install webpack to your project and where to wright configurations?
+### 4. How and where need to add webpack build and watch command?
+### 5. How to specify entry point in webpack configuration?
+### 6. How to specify entry file output in webpack configuration?
+### 7. How to specify entry file output path in webpack configuration?
+### 8. How to create new repository in Github?
+### 9. How to init GIT in project?
+### 10. How to add all changes/files to git index?
+### 11. How to commit message for new changes?
+### 12. How to add remote URL to GIT project?
+### 13. How to push changes to master?
